@@ -1,0 +1,14 @@
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.AssemblyInfo.cs
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\Account\Account\bin\Debug\net7.0\Account.exe
+C:\Users\windows\source\repos\Account\Account\bin\Debug\net7.0\Account.deps.json
+C:\Users\windows\source\repos\Account\Account\bin\Debug\net7.0\Account.runtimeconfig.json
+C:\Users\windows\source\repos\Account\Account\bin\Debug\net7.0\Account.dll
+C:\Users\windows\source\repos\Account\Account\bin\Debug\net7.0\Account.pdb
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.dll
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\refint\Account.dll
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.pdb
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\Account.genruntimeconfig.cache
+C:\Users\windows\source\repos\Account\Account\obj\Debug\net7.0\ref\Account.dll
